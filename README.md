@@ -1,6 +1,6 @@
 # IISRecon
 
-This is bruteforce tool that fetch all IIS shortname thanks to SNS by Sw33tLie and try to bruteforce each one of them with a given wordlist. \n
+This is bruteforce tool that fetch all IIS shortname thanks to SNS by Sw33tLie and try to bruteforce each one of them with a given wordlist.\
 If some of the found links are folders, it recursively try to do the same.
 
 ## Usage
